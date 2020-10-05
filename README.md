@@ -1,6 +1,6 @@
 # L2-NewPac
 
-             IMPORTANT CUSTOMER INFORMATION    BY: Jhonatan Nuss  
+             IMPORTANT CUSTOMER INFORMATION    BY: Janiltojack  
                      http://JnCenter.com .br                      
                     Project based on Acis 390                     
 
